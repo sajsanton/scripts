@@ -38,3 +38,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Fixed off-by-one error in loop
 - Pinned dependency versions for reproducibility
+
+## 2026-03-30
+- Drafted initial implementation plan for v2
