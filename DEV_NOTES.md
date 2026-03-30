@@ -25,3 +25,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reorganised test fixtures
 - Fixed off-by-one error in loop
+
+## 2026-03-30
+- Cross-checked behaviour against spec
