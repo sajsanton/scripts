@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Improved error handling in edge cases
 - Verified compatibility with latest runtime version
+
+## 2026-03-30
+- Reorganised test fixtures
+- Fixed off-by-one error in loop
