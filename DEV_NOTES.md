@@ -48,3 +48,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Improved error handling in edge cases
 - Investigated performance bottleneck, noted findings
+
+## 2026-04-06
+- Documented config options
+- Ran linter, applied auto-fixes
