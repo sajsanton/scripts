@@ -44,3 +44,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-06
 - Added CONTRIBUTING.md stub
+
+## 2026-04-06
+- Improved error handling in edge cases
+- Investigated performance bottleneck, noted findings
