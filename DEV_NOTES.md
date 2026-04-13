@@ -52,3 +52,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Documented config options
 - Ran linter, applied auto-fixes
+
+## 2026-04-13
+- Added basic retry logic for network requests
+- Tidied up project structure
