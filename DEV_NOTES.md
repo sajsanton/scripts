@@ -56,3 +56,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Added basic retry logic for network requests
 - Tidied up project structure
+
+## 2026-04-13
+- Reviewed codebase, identified areas for improvement
+- Added CONTRIBUTING.md stub
